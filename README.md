@@ -1,4 +1,4 @@
-This is a notebook to simplify calcualtions with quiver mutations. 
+The QuiverMutation.ipynb notebook is to simplify calcualtions with quiver mutations. 
 
 It has functions to:
 
