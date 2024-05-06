@@ -16,3 +16,5 @@ The MutationAndTYSystems.ipynb notebook is for (ultimately) generating T- and Y-
 * Search for mutation sequences that fix a quiver (up to permutation), proving periodicity
 * Given a mutation sequence that fixes a quiver (not up to permutation), generate T- and Y-systems
 * Given a mutate sequence that fixes a quiver (up to permutation), generate reduced T- and Y-systems
+
+People interested in the mathematical background of cluster algebras, T- and Y-systems etc should see the PythonClusters.pdf file. This also contains a few more examples with more in depth explanations.
